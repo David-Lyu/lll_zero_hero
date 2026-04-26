@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdbool.h>
+// https://man7.org/linux/man-pages/man3/getopt.3.htmlhttps://man7.org/linux/man-pages/man3/getopt.3.html
 #include <getopt.h>
 #include <stdlib.h>
-
+// Header files
 #include "common.h"
 #include "file.h"
 #include "parse.h"
